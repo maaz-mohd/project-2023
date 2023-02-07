@@ -1,0 +1,9 @@
+DevOps is a methodology which Involves practices to bridge the gap of Dev and ops team by using Open source automation build tools.
+
+What does DevOps Engineer do?
+A DevOps engineer introduces processes, tools, and methodologies to balance needs throughout the software development life cycle, from coding and deployment, to maintenance and updates.
+
+Formal defination
+  "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users."
+
+The main goal of DEVOPS is to shorten cycle time. Start with the release pipeline.
